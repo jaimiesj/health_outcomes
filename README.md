@@ -1,2 +1,9 @@
 # health_outcomes
-final project 
+
+selected topic
+
+Reason why topic selected
+
+Description of data source
+
+Questions to answer with data
