@@ -1,6 +1,6 @@
 # health_outcomes
 
-selected topic
+Selected topic
 
 Reason why topic selected
 
