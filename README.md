@@ -3,7 +3,9 @@
 ## Selected topic
 
 ## Reason why topic selected
-
+This topic was selected because we needed a dataset that we could use to make a model to predict an outcome. We wanted to stay on the topic of health
+so the other datasets that were considared were all health related. However with some of the other datasets they were either to small to work with or
+we were not able to use it to make a prediction with a machine learning model. So in the end this one was chosen because of its size and because it allows us to group potential results and allow our moedel to come up with were everything will fall into.
 ## Description of data source
 
 ## Questions to answer with data 
