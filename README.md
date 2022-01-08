@@ -1,6 +1,7 @@
 # Heavy Alcohol Consumption in Among a Student Population Machine Learning Model
 
 ## Selected topic
+Statistics of Alcohol Consumption Among Young People (between ages 15 and 22) and the Contributing Factors
 
 ## Reason why topic selected
 This topic was selected because we needed a dataset that we could use to make a model to predict an outcome. We wanted to stay on the topic of health
