@@ -1,8 +1,8 @@
 # Heavy Alcohol Consumption in Among a Student Population Machine Learning Model
 
 # Files
-data_test1 First model ran with one provisional database using linear regression
-
+data_test1: First model ran with one provisional database using linear regression.
+project_model: Final dataset chosen will be running a a logistic regression or a random forest.
 ## Selected topic
 Statistics of Heavy Alcohol Consumption Among a Student Population (between ages 15 and 22) and the Contributing Factors
 
