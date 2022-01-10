@@ -1,4 +1,4 @@
-# Heavy Alcohol Consumption in Among a Student Population Machine Learning Model
+# Heavy Alcohol Consumption Amongst Student Population Using Machine Learning Model
 
 # Files
 data_test1: First model ran with one provisional database using linear regression.
