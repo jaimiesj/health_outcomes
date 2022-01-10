@@ -7,9 +7,7 @@ project_model: Final dataset chosen will be running a logistic regression or a r
 Statistics of Heavy Alcohol Consumption Amongst Student Population (between ages 15 and 22) and the Contributing Factors
 
 ## Reason why topic selected
-This topic was selected because we needed a dataset that we could use to make a model to predict an outcome. We wanted to stay on the topic of health
-so the other datasets that were considared were all health related. However with some of the other datasets they were either to small to work with or
-we were not able to use it to make a prediction with a machine learning model. So in the end this one was chosen because of its size and because it allows us to group potential results and allow our moedel to come up with were everything will fall into.
+This topic was selected because we needed a dataset that we could use to make possible predictions to an outcome using machine learning models. Meanwhile, the dataset selected is also considered simple and easy to read and majorly contains numerical values. However, this dataset was chosen because of its size and ability to generate potential results which allows our model to predict outcomes on alcohol consumption amongst student population.
 
 ## Description of data source
 This dataset was culled from the UCI machine learning website which shows 2 different schools in portugal and shows students drinking consumption. This group will use different machine learning algorithms to make predictions pertaining to whether a student may be prone to alcoholism in the future.
