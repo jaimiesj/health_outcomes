@@ -1,4 +1,0 @@
-SELECT 'MomEducation', 'DadEducation', 'MomJob', 'DadJob', 'FamilyDynamics', 'WorkdayDrinking', 'WeekendDrinking', 'Guardian', 'FamilySupport'
-	INTO family_info
-	FROM data_set
-	
