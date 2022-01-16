@@ -1,5 +1,6 @@
 # Heavy Alcohol Consumption Amongst Student Population Using Machine Learning Model
-
+# Presentation
+https://docs.google.com/presentation/d/1hqgUfOrMOn1eLWV_YMKmGAy1pQPLOVfiNKPChs24wYY/edit#slide=id.gd1b2d3b176_0_14
 ## Files
 data_test1: First model ran with one provisional database using linear regression.
 project_model: Final dataset chosen will be running a logistic regression or a random forest.
