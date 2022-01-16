@@ -20,4 +20,14 @@ Using the sum of the Workday Alcohol Consumption (Dalc) and Weekend Alcohol Cons
 We utilize the weekly class meetups to work through the assignment, share how far along we've gotten in the assignment and bring up challenges we faced. During class, we plan when we will next week, if necessary. Outside of class, we communicate through Slack and Github
 
 ## Outline of the project (this may include images, but they should be easy to follow and digest)
+### Data Exploration
+- Rename columns to provide clarity
+- Create a new column that combines the Walc and Dalc (work day and weekend alcohol consumption) to then create a binary column that assigns heavy drinkers and not heavy drinks 
+- Remove certain columns
+### Data analysis
+- Use "get_dummies" to encode numeric data
+- After splitting encoded features and targets into train and test sets, used StandardScaler to scale data
+- Use RandomForestClassifier model; generated a confusion matrix, accuracy score and classification report
+
+
 
