@@ -1,4 +1,4 @@
-id,school,gender,age,home address,parents cohabitation,moms education,dads education,moms job,dads job,choice reason,guardian,travel time,nursery education,internet access,higher education,significant other,household size,family relationship,free time,social activities,study time,first periods grade,second periods grade,third periods grade,failures,absences,health,weekday drinker,weekend drinker,drinker
+id,school,gender,age,home address,parents cohabitation,moms education,dads education,moms job,dads job,choice reason,guardian,travel time,nursery education,internet access,higher education,significant other,household size,family relationship,free time,social activities,study time,first periods grade,second periods grade,third periods grade,failures,absences,health,weekday drinking,weekend drinking,heavy drinking
 1,0,1,18,1,0,4,4,0,2,0,0,2,1,0,1,0,1,4,3,4,2,5,6,6,0,6,3,1,1,0
 2,0,1,17,1,1,1,1,0,4,0,1,1,0,1,1,0,1,5,3,3,2,5,5,6,0,4,3,1,1,0
 3,0,1,15,1,1,1,1,0,4,4,0,1,1,1,1,0,0,4,3,2,2,7,8,10,3,10,3,2,3,1
