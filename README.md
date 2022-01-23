@@ -38,6 +38,37 @@ This dataset was culled from the UCI machine learning website which shows 2 diff
 
 ## Questions to answer with data 
 Using the sum of the Workday Alcohol Consumption (Dalc) and Weekend Alcohol Consumption (Walc), we will generate a Alcohol Consumption column, where if values fall below a certain number (to be determined), they will be deemed low risk alcohol consumers while if they fall above that number, they will be deemed high risk alcohol consumer, based on several factors, such as sex, age, parent education, parent job, number of class failures, etc
+# Machine Learning Models
+## Random Forest
+### Binary Classifier
+![Screenshot 2022-01-23 163251](https://user-images.githubusercontent.com/25463509/150698768-baf04ce8-9f8e-4480-ac32-ba9b168614e4.png)
+
+
+## Accuracy
+This models accuracy was over 81%
+### Multiple Classifiers
+
+![Screenshot 2022-01-23 164225](https://user-images.githubusercontent.com/25463509/150699055-29769904-4df4-45b2-b6f7-26adb58d8b39.png)
+
+### Accuracy
+This model did not do so well as it was around 50% in accuracy, however this one did not inclde as many features and the binary classifier.
+## Decision Tree
+### Binary Classifiers
+![Screenshot 2022-01-23 164400](https://user-images.githubusercontent.com/25463509/150699089-dcfd8c20-1ce3-4101-8e10-d5aaedd45eb5.png)
+
+
+### Multiple classifiers
+![Screenshot 2022-01-23 163555](https://user-images.githubusercontent.com/25463509/150698872-6701d4eb-aee0-49bd-b9f6-9b53acead606.png)
+
+### Accuracy
+This model also did not do to well as the accuracy was around 50%
+## Neural Network
+![Screenshot 2022-01-23 162919](https://user-images.githubusercontent.com/25463509/150698702-47b71385-1879-4ee3-8b90-fc5c80b169b7.png)
+
+### Accuracy
+
+![Screenshot 2022-01-23 165819](https://user-images.githubusercontent.com/25463509/150699472-01e553ae-a462-44db-b14f-ca41425b2018.png)
+
 
 ## Outline of the project
 ### Data Exploration
