@@ -5,7 +5,26 @@ Statistics of Heavy Alcohol Consumption Amongst Student Population (between ages
 
 ## Files
 data_test1: First model ran with one provisional database using linear regression.
-project_model: Final dataset chosen will be running a logistic regression or a random forest.
+
+project_model: Final dataset chosen will be running a Decision Tree, Random Forest and Neural Network.
+# Data
+![Screenshot 2022-01-23 155841](https://user-images.githubusercontent.com/25463509/150697740-7aeaa65d-b556-4d7e-a821-a26f279a86ef.png)
+
+## Cleaning and encoding
+
+# Data Vizualizations
+
+## Relationship between age and alcohol consumption on the weekends
+
+![Screenshot 2022-01-23 154310](https://user-images.githubusercontent.com/25463509/150697290-e8d2010b-4fb7-464c-a21c-b06ce5c18fe6.png)
+
+## Relationship between age and alcohol consumption during the week broken down by the different health groups 1(Low"Unhealthy")-5(High"Healthy")
+
+![Screenshot 2022-01-23 154602](https://user-images.githubusercontent.com/25463509/150697452-fe24422e-770c-44af-8f0e-06736f5ffd00.png)
+
+## Relationship between going out and consumption during the week
+
+![Screenshot 2022-01-15 204012](https://user-images.githubusercontent.com/25463509/150697667-ec2f0d3f-50b5-4877-8700-6bc1d03c9c4d.png)
 
 ## Reason why topic selected
 This topic was selected because we needed a dataset that we could use to make possible predictions to an outcome using machine learning models. Meanwhile, the dataset selected is also considered simple and easy to read and majorly contains numerical values. However, this dataset was chosen because of its size and ability to generate potential results which allows our model to predict outcomes on alcohol consumption amongst student population.
@@ -28,9 +47,6 @@ Using the sum of the Workday Alcohol Consumption (Dalc) and Weekend Alcohol Cons
 
 ## Presentation
 https://docs.google.com/presentation/d/1hqgUfOrMOn1eLWV_YMKmGAy1pQPLOVfiNKPChs24wYY/edit#slide=id.gd1b2d3b176_0_14
-
-## Visualization
-https://public.tableau.com/app/profile/jaimie2837/viz/StudentAlcoholConsumptionVisuals/Story1?publish=yes
 
 
 
