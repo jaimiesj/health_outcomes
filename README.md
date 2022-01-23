@@ -27,7 +27,8 @@ New column drinker added which will be a result after the model is done classify
 
 ## Relationship between going out and consumption during the week
 
-![Screenshot 2022-01-15 204012](https://user-images.githubusercontent.com/25463509/150697667-ec2f0d3f-50b5-4877-8700-6bc1d03c9c4d.png)
+![Screenshot 2022-01-16 034906](https://user-images.githubusercontent.com/25463509/150698263-935d0611-6d9c-4d9b-b221-e9995e992f93.png)
+
 
 ## Reason why topic selected
 This topic was selected because we needed a dataset that we could use to make possible predictions to an outcome using machine learning models. Meanwhile, the dataset selected is also considered simple and easy to read and majorly contains numerical values. However, this dataset was chosen because of its size and ability to generate potential results which allows our model to predict outcomes on alcohol consumption amongst student population.
