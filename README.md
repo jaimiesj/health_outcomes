@@ -11,6 +11,9 @@ project_model: Final dataset chosen will be running a Decision Tree, Random Fore
 ![Screenshot 2022-01-23 155841](https://user-images.githubusercontent.com/25463509/150697740-7aeaa65d-b556-4d7e-a821-a26f279a86ef.png)
 
 ## Cleaning and encoding
+New column drinker added which will be a result after the model is done classifying who is a heavy drinker and who is not
+![Screenshot 2022-01-23 161330](https://user-images.githubusercontent.com/25463509/150698199-ce59b94b-c348-4f49-8931-1d0f95a71483.png)
+
 
 # Data Vizualizations
 
