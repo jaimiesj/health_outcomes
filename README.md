@@ -29,5 +29,8 @@ Using the sum of the Workday Alcohol Consumption (Dalc) and Weekend Alcohol Cons
 ## Presentation
 https://docs.google.com/presentation/d/1hqgUfOrMOn1eLWV_YMKmGAy1pQPLOVfiNKPChs24wYY/edit#slide=id.gd1b2d3b176_0_14
 
+## Visualization
+https://public.tableau.com/app/profile/jaimie2837/viz/StudentAlcoholConsumptionVisuals/Story1?publish=yes
+
 
 
