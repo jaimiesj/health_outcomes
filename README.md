@@ -2,8 +2,38 @@
 ## Selected topic
 Statistics of Heavy Alcohol Consumption Amongst Student Population (between ages 15 and 22) and the Contributing Factors
 ## Files
-data_test1: First model ran with one provisional database using linear regression.
-project_model: Final dataset chosen will be running a Decision Tree, Random Forest and Neural Network.
+[src/data.ipynb](src/data.ipynb) contains code that retrieve data, cleans, encodes the data and the data in its new form is then stored. 
+```python
+data_url = 'https://raw.githubusercontent.com/tahmeed14/classification-models-for-alcoholism/master/alcoholism_classification/Student%20Alcohol%20Consumption%20Merged.csv'
+raw_df = pd.read_csv(data_url)
+raw_df.head()
+```
+Column names were replaced with more meaningful identifiers
+```python
+replacements = {
+    'Dalc': 'weekday drinking', 'Walc': 'weekend drinking', 'famrel': 'family relationship',
+    'goout': 'social activities', 'romantic': 'significant other', 'freetime': 'free time',  
+} 
+selected_df = selected_df.rename(columns=replacements)
+```
+Some columns were encoded with numbers
+```python
+encoded_df = encoded_df.replace(['at_home', 'health', 'teacher', 'services', 'other'], [0, 1, 2, 3, 4])
+encoded_df = encoded_df.replace(['course', 'home', 'other', 'reputation'], [0, 1, 2, 3])
+```
+The cleaned and preprocessed data was stored in a relational database and a copy was stored in a flat file in a csv format
+
+```python
+# flat file storage
+encoded_df.to_csv('../res/data/encoded.csv', index=False)
+
+# database storage SQLite
+cur.executemany('INSERT INTO profile VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', profile_values.to_numpy())
+cur.executemany('INSERT INTO activities VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', activities_values.to_numpy())
+```
+
+<!-- data_test1: First model ran with one provisional database using linear regression.
+project_model: Final dataset chosen will be running a Decision Tree, Random Forest and Neural Network.-->
 
 [src/learn.ipynb](src/learn.ipynb) Final model containing Decision Tree, Random Forest and Neural Network
 # Data
