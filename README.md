@@ -73,3 +73,9 @@ https://docs.google.com/presentation/d/1hqgUfOrMOn1eLWV_YMKmGAy1pQPLOVfiNKPChs24
 Final Presentation https://public.tableau.com/app/profile/jaimie2837/viz/HeavyDrinkervsPredictiveModels/Story2?publish=yes
 https://public.tableau.com/app/profile/jaimie2837/viz/StudentAlcoholConsumptionVisuals/Story1?publish=yes
 https://public.tableau.com/app/profile/yomi.sosanya/viz/YouthAlcoholism/PopulationbySchool?publish=yes
+
+### Contributors
+* [Abideen Alabede](https://github.com/olakunlealabede)
+* [Ashton Anderson](https://github.com/ash09er5)
+* [Jaimie Jerome](https://github.com/jaimiesj)
+* [Yomi Sosanya](https://github.com/perchingeagle)
