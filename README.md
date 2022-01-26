@@ -5,7 +5,7 @@ Statistics of Heavy Alcohol Consumption Amongst Student Population (between ages
 data_test1: First model ran with one provisional database using linear regression.
 project_model: Final dataset chosen will be running a Decision Tree, Random Forest and Neural Network.
 
-/src/learn.ipynb Final model containing Decision Tree, Random Forest and Neural Network
+[src/learn.ipynb](src/learn.ipynb) Final model containing Decision Tree, Random Forest and Neural Network
 # Data
 ![Screenshot 2022-01-23 155841](https://user-images.githubusercontent.com/25463509/150697740-7aeaa65d-b556-4d7e-a821-a26f279a86ef.png)
 ## Cleaning and encoding
