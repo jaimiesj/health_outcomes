@@ -2,6 +2,10 @@
 ## Selected topic
 Statistics of Heavy Alcohol Consumption Amongst Student Population (between ages 15 and 22) and the Contributing Factors
 ## Files
+#### Data Source:
+- [Original Project Overview](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/written_report.pdf)
+- [Original Dataset](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/Student%20Alcohol%20Consumption%20Merged.csv)
+
 [src/data.ipynb](src/data.ipynb) contains code that retrieve data, cleans, encodes the data and the data in its new form is then stored. 
 ```python
 data_url = 'https://raw.githubusercontent.com/tahmeed14/classification-models-for-alcoholism/master/alcoholism_classification/Student%20Alcohol%20Consumption%20Merged.csv'
