@@ -1,0 +1,24 @@
+Presentation Outline
+
+Introduction - Abideen
+Explain the data source
+Why we choose
+What question we're trying to ask
+
+Data extraction - Yomi
+Cleaning process
+Database
+
+Graphical representation of dataset - Ashton
+
+Segue into Machine Learning models
+
+Decision Tree, Random Forest - Ashton
+
+Neural network - Yomi
+Optimization of neural network
+
+Conclusion - Jaimie
+Feature Importance
+Revisualize using the features
+ML models incorporate feature importance
