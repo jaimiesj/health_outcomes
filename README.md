@@ -28,3 +28,6 @@ We utilize the weekly class meetups to work through the assignment, share how fa
 - Use "get_dummies" to encode numeric data
 - After splitting encoded features and targets into train and test sets, used StandardScaler to scale data
 - Use RandomForestClassifier model; generated a confusion matrix, accuracy score and classification report
+
+## Tableau Story
+https://public.tableau.com/app/profile/jaimie2837/viz/HeavyDrinkervsPredictiveModels/Story2?publish=yes
