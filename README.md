@@ -1,4 +1,4 @@
-# Reflect on where you are now ath the completion of the boot camp, and set a goal for the next six months.
+# Reflect on where you are now at the completion of the boot camp, and set a goal for the next six months.
 I'm proficient in Excel/VBA, Python, Pandas, SQL and Tableau and intend to intensify effort in developing myself in deep learning machine to foster growth in data analysis for the next six months.
 
 
