@@ -1,8 +1,7 @@
-# Heavy Alcohol Consumption Amongst Student Population Using Machine Learning Model
+# Reflect on where you are now ath the completion of the boot camp, and set a goal for the next six months.
+I'm proficient in Excel/VBA, Python, Pandas, SQL and Tableau and intend to intensify effort in developing myself in deep learning machine to foster growth in data analysis for the next six months.
 
-# Files
-data_test1: First model ran with one provisional database using linear regression.
-project_model: Final dataset chosen will be running a a logistic regression or a random forest.
+
 ## Selected topic
 Statistics of Heavy Alcohol Consumption Amongst Student Population (between ages 15 and 22) and the Contributing Factors
 
